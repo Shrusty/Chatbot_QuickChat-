@@ -1,0 +1,28 @@
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit specific
+.streamlit/
+
+# Logs
+*.log
+
+# Jupyter / Colab notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
