@@ -1,6 +1,7 @@
 A simple chatbot web app built using **Streamlit** and **Microsoft DialoGPT-small**.  
 It supports styled chat bubbles, dark mode UI, emojis for reactions, and chat history clear and download.
 
+https://snvfvscrbhn468vjt8pwex.streamlit.app/
 ---
 ## Features
 -  Dark themed chat window with styled bubbles  
@@ -35,7 +36,6 @@ HuggingFace Transformers – DialoGPT model
 
 PyTorch – Model backend
 
-https://snvfvscrbhn468vjt8pwex.streamlit.app/
 
 ## License
 This project is open-source and available under the MIT License.
