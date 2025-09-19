@@ -1,7 +1,7 @@
 A simple chatbot web app built using **Streamlit** and **Microsoft DialoGPT-small**.  
 It supports styled chat bubbles, dark mode UI, emojis for reactions, and chat history clear and download.
 
-https://snvfvscrbhn468vjt8pwex.streamlit.app/
+
 ---
 ## Features
 -  Dark themed chat window with styled bubbles  
@@ -10,6 +10,7 @@ https://snvfvscrbhn468vjt8pwex.streamlit.app/
 - Download chat history as JSON  
 - Clear chat option  
 - Powered by HuggingFace `microsoft/DialoGPT-small`
+https://snvfvscrbhn468vjt8pwex.streamlit.app/
 
 
   ## Installation
