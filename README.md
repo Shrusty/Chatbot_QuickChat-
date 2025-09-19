@@ -10,6 +10,7 @@ It supports styled chat bubbles, dark mode UI, emojis for reactions, and chat hi
 - Download chat history as JSON  
 - Clear chat option  
 - Powered by HuggingFace `microsoft/DialoGPT-small`
+
 https://snvfvscrbhn468vjt8pwex.streamlit.app/
 
 
