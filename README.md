@@ -1,5 +1,5 @@
 A simple chatbot web app built using **Streamlit** and **Microsoft DialoGPT-small**.  
-It supports styled chat bubbles, dark mode UI, emojis for reactions, and chat history download.
+It supports styled chat bubbles, dark mode UI, emojis for reactions, and chat history clear and download.
 
 ---
 ## Features
