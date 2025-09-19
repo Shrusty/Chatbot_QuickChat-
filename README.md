@@ -30,7 +30,9 @@ pip install -r requirements.txt
 
 ## Tech Stack
 Streamlit – UI framework
+
 HuggingFace Transformers – DialoGPT model
+
 PyTorch – Model backend
 
 ## License
